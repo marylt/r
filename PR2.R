@@ -1,9 +1,3 @@
-# Mary Ton
-# INST 314-0105
-# Project 2
-# Last Revised R Date: Sunday, November 24, 2019
-
-######################
 
 # Data & Packages setup
 
