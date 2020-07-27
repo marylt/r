@@ -1,4 +1,3 @@
-# Mary Ton / INST 314 / Homework 2
 
 # 4a) 16 columns, 26217 rows
 
