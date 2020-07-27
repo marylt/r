@@ -1,7 +1,3 @@
-# Mary Ton
-# INST314
-# Homework 4
-# Last edited on November 3, 2019
 
 # libraries to be imported:
 library(summarytools)
