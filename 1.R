@@ -1,8 +1,3 @@
-# Mary Ton / INST 314
-
-# Homework 1 
-
-
 
 
 # Part 1
