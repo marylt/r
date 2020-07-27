@@ -1,6 +1,3 @@
-# Mary Ton
-# INST3140105
-# Homework 5
 
 library(Rmisc)
 
