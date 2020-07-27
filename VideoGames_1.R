@@ -1,10 +1,3 @@
-# INST 314-0105
-# Project 1
-# Team Video Games
-# Mary Ton, John Henrici, Jiawen Lei, Musab Muhie
-# Last Revised R Date: Thursday, October 20, 2019
-
-######################
 
 # data & packages setup
 
